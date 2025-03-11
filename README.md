@@ -1,2 +1,2 @@
-# -T-topics
+# İT
 About Computer, İT science
